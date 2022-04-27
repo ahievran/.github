@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-<!--
+### 🙋‍♀️ Biz Kimiz
 
-**Here are some ideas to get you started:**
+Bizler Kırşehir Ahi Evran Üniversitesi Bilgisayar Mühendisliği öğrencileriyiz. Fakültemizin Web sitesini tekrardan hazırlamak üzere bu organizasyonu açtık. Projemizi gizli bir repo üzerinden sürdürmekteyiz.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 👩‍💻 Kullandığımız Teknolojiler
+
+Frontend: HTML - CSS - Bootstrap - JavaScript
+
+Backend: PHP
+
+Database: MySQL
+
