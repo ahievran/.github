@@ -1,10 +1,10 @@
 # Hi there 👋
 
-### 🙋‍♀️ Biz Kimiz
+## 🙋‍♀️ Biz Kimiz
 
 Bizler Kırşehir Ahi Evran Üniversitesi Bilgisayar Mühendisliği öğrencileriyiz. Fakültemizin Web sitesini tekrardan hazırlamak üzere bu organizasyonu açtık. Projemizi gizli bir repo üzerinden sürdürmekteyiz.
 
-### 👩‍💻 Kullandığımız Teknolojiler
+## 👩‍💻 Kullandığımız Teknolojiler
 
 Frontend: HTML - CSS - Bootstrap - JavaScript
 
